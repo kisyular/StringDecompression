@@ -1,0 +1,2 @@
+# StringDecompression
+The program takes in a compressed string and decompresses it. Eg, a compressed string like "Pease porridge hot,\(20,15)cold,\(21,15)in the p(48,4)Nine days (42,3).\\Some like it(82,6)(18,13)(80,6)(19,13)(78,26)" will get decompressed to Pease porridge hot, Pease porridge cold, Pease porridge in the pot, Nine days old. Some like it hot, Some like it cold, Some like it in the pot, Nine days old.
